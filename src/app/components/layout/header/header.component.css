@@ -1,0 +1,26 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    justify-content: space-between;
+}
+#logo{
+    width: 10%;
+}
+    #logo-unig{
+        width: 142px;
+        height: 142px;
+    }
+#titulo{
+    width: 80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#auth{
+    width: 10%;
+}
+    #logo-auth{
+        width: 142px;
+        height: 142px;
+    }
